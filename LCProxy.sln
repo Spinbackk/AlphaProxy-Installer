@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCProxy", "LCProxy\LCProxy.csproj", "{E6A044FA-DE57-4AFB-B42E-CBE04F02DF60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCProxy", "LCProxy.csproj", "{5EE696AB-1B22-4D02-B208-B8508649B084}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6A044FA-DE57-4AFB-B42E-CBE04F02DF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6A044FA-DE57-4AFB-B42E-CBE04F02DF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6A044FA-DE57-4AFB-B42E-CBE04F02DF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6A044FA-DE57-4AFB-B42E-CBE04F02DF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE696AB-1B22-4D02-B208-B8508649B084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE696AB-1B22-4D02-B208-B8508649B084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE696AB-1B22-4D02-B208-B8508649B084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE696AB-1B22-4D02-B208-B8508649B084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F54BDB00-D65B-4535-8021-0B36A6DB5F19}
+		SolutionGuid = {184A7E53-569D-496B-89DF-502336E6A709}
 	EndGlobalSection
 EndGlobal

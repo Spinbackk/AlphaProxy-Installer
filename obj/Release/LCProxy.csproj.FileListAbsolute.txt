@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\bin\Release\LCPInstaller.exe.config
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\bin\Release\LCPInstaller.exe
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\bin\Release\LCPInstaller.pdb
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCProxy.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCProxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCProxy.Form1.resources
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCProxy.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCProxy.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCProxy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCPInstaller.exe
+C:\Users\Administrator\Documents\GitHub\AlphaProxy-Installer\obj\Release\LCPInstaller.pdb
